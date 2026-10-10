@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Nicolás 👋
 
-<!--
-**dtorresmarin-cell/dtorresmarin-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me interesa la intersección entre **minería de datos, estadística y política pública**: cómo usar métodos cuantitativos para diseñar, implementar y evaluar mejores políticas.
 
-Here are some ideas to get you started:
+## 🎓 Formación en curso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Maestría en Minería de Datos** — UTN
+- **Maestría en Diseño y Análisis de Políticas Públicas** — ITBA
+- Lic. en Relaciones Internacionales — UCC
+
+## 🔎 Qué me interesa
+
+- Uso de datos en todo el **ciclo de la política pública**: diagnóstico, diseño, implementación y evaluación
+- **Evaluación de políticas** con métodos cuantitativos
+- **Machine learning** aplicado a problemas públicos (educación, salud, gestión municipal)
+- Estadística aplicada, muestreo y diseño de encuestas
+- Tecnología cívica y gestión basada en evidencia
+
+
+## 🛠️ Herramientas
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![tidymodels](https://img.shields.io/badge/tidymodels-1a162d?style=flat)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat&logo=google&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+## 📚 Repositorios destacados
+
+- [**apuntes-r-ml**](https://github.com/dtorresmarin-cell/apuntes-r-ml) — Mis apuntes de R y aprendizaje automático: EDA, preprocesamiento, modelos y evaluación
+
+## 📫 Contacto
+
+- LinkedIn: [david nicolas torres marin](www.linkedin.com/in/david-nicolás-torres-marín-4043b2223)
+- Email: dtorresmarin@itba.edu.ar
