@@ -2,7 +2,7 @@
 
 Me interesa la intersección entre **minería de datos, estadística y política pública**: cómo usar métodos cuantitativos avanzados para diseñar, implementar y evaluar mejores políticas.
 
-## 🎓 Formación en curso
+## 🎓 Formación
 
 - **Maestría en Minería de Datos** — UTN
 - **Maestría en Diseño y Análisis de Políticas Públicas** — ITBA
